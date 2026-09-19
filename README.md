@@ -43,3 +43,4 @@ CREATE TABLE order_items (
     FOREIGN KEY (product_id) REFERENCES products(product_id)
 );
 
+ <img width="2000" height="1278" alt="create tables" src="https://github.com/user-attachments/assets/bf9a799a-1f81-42a5-bce2-48430270e830" />
